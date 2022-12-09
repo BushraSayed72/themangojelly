@@ -256,13 +256,13 @@ h2{
 @media (max-width:768px){
   .menu-icon{
     position: absolute;
-
+padding-left: 2rem;
     right:5%;
     width: 25px;
     z-index: 1000;
 }
   .navbar{
-    width:100vw;
+    width:180vw;
     
       display: flex;
       align-items:center;
